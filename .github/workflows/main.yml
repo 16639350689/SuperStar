@@ -30,4 +30,3 @@ jobs:
           CHAOXING_PASSWORD: ${{ secrets.CHAOXING_PASSWORD }}
           CHAOXING_COURSE_LIST: ${{ secrets.CHAOXING_COURSE_LIST }}
         run: python main.py -u 16699738646 -p @Wsf17084309149 -l 268339366
-#注释
